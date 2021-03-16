@@ -4,7 +4,7 @@ Create XML Files using PeopleCode and the File Layouts
 PeopleTools Tech Tips    
 Randy Groncki	2021-03-16
 
-PT3 Creating XML files using File Layouts
+PT3 Creating XML files using File Layouts & XML Docs
 XML File Generation Examples 
 
 Contact: 
