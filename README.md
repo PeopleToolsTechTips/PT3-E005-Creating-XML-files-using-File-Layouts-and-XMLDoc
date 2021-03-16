@@ -9,10 +9,12 @@ XML File Generation Examples
 
 File Layout
 Walkthrough Documentation:  https://peopletoolstechtips.com/create-an-xml-file-using-a-file-layout/
+
 YouTube demo: https://youtu.be/OVsV4tx5JMc
 
 XML Doc
 Walkthrough Documentation:  https://peopletoolstechtips.com/create-an-xml-file-with-xmldoc/
+
 YouTube demo: https://youtu.be/WruJQSSFLUM
 
 Contact: 
